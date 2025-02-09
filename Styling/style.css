@@ -337,6 +337,7 @@ body {
 
 .category-item {
     text-align: center;
+    cursor: pointer;
 }
 
 .category-item img {
